@@ -1,0 +1,46 @@
+body {
+    margin: 0%;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.bannar {
+    background: url("images/top-banner.png");
+    height: 600px;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.SA {
+    color: orangered;
+}
+
+.half-width {
+    width: 40%;
+    margin-left: 4%;
+    padding-left: 2%;
+}
+
+img {
+    width: 100%;
+}
+
+.half-width {
+    float: left;
+}
+
+.bio {
+    font-style: normal;
+}
+
+.Link-button {
+    background: #3E8297;
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    padding: 10px 20px;
+
+}
